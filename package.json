@@ -1,0 +1,12 @@
+{
+  "name": "flames-html",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
