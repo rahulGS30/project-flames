@@ -3,6 +3,7 @@ name: Test, Build, and Deploy FLAMES
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   test:
